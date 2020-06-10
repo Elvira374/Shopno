@@ -477,7 +477,7 @@ a.logo b {
     Footer
 ------------------------------------------------------------*/
 .contact {
-    background: url(../img/bg-footer.png) no-repeat  center;
+    background: url(../img/bg-footer.png) center;
     background-size: 100%;
     padding: 7% 0;
 }
